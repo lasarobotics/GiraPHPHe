@@ -1,10 +1,8 @@
 # Giraphphe
 LASA Robotics 2014-2015 FTC Team 4290 presents... the Open Source robot GiraPHPHe!
-#TO BE UPDATED BEFORE RELEASE:
-This is the complete collection of CAD documents for FTC team 4290, HiPhi, for the 2014-2015 challenge "Cascade Effect." All these documents are created by and for SolidWorks 2014 only. They cannot be read by any previous version of SolidWorks.
+##Welcome
+This is the complete collection of CAD documents for FTC team 4290, High Phidelity, for the 2014-2015 challenge "Cascade Effect." All the documents in the `src` directory are created by and for SolidWorks 2014 only. The `stl` directory contains .STL files for each part of the robot. The STL for the whole robot is named `4290.STL` and be found [here](https://github.com/lasarobotics/GiraPHPHe/blob/master/4290.STL)
 
-I've arranged everything in folders to make things easy to find (I hope). The folders are numbered so that file explorers will display them in a logical order. Please try to name parts logically so it's easy for multiple people can work on this.
+We've really enjoyed building this robot for the Cascade Effect season. If you have any feedback/compliments/questions, we can be reached on Twitter [here](https://twitter.com/lasa_ftc4290).
 
-"4290.SLDASM" is the complete robot assembly. Everything else should be in a subdirectory.
-
--Daniel Teal 10/2/14
+--High Phidelity (LASA Robotics FTC 4290)
